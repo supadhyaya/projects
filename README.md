@@ -1,1 +1,1 @@
-# setting up wiki page to record informations
+# setting up wiki pages to record informations
